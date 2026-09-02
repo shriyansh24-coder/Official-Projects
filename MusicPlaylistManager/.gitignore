@@ -1,0 +1,40 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build files
+build/
+dist/
+
+# PyInstaller
+*.spec
+
+# Generated playlist data
+data/playlist.json
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local music files
+*.mp3
+*.wav
+*.ogg
+*.flac
+
+# Python tools
+.pytest_cache/
+.mypy_cache/
